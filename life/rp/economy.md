@@ -75,4 +75,5 @@ Une exception est possible pour des tâches temporaires, [voir Le travail à la 
 * La profession d'avocat peut être effectuée en plus de deux autres emplois.
 
 ### Le travail à la tâche / temporaire
-
+Une entreprise peut décider d'employer une personne pour une tâche ou pour une mission courte cela s’apparente à de l’intérim et vous pouvez toucher une somme pour cela. Encore une fois, cela doit rester cohérent et peut tenir compte de la précarité de l’emploi. Pour une tâche qui dure la soirée, une somme de 2500$ paraît correcte. Donner beaucoup peut être considéré comme un moyen de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
+> Exemple : volontariat dans un service public 
