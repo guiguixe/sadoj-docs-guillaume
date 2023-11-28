@@ -65,4 +65,14 @@ Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence su
 
 ### Les revenus de travail ou activité PNJ
 Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
+## Limite d’emploi 
+* Sont considérés comme emploi le fait de posséder une entreprise et/ou  d'y travailler. 
+* Il est autorisé d'avoir deux  emplois maximum (patron ou employé ou bénévole) pour les entreprises.
+Une exception est possible pour des tâches temporaires, voir Le travail à la tâche / temporaire.
+* Les associations, clubs sont  exclus et peuvent faire appel à des bénévoles.
+* Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
+* Les mandats électifs sauf “Lieutenant-Gouverneur” comptent comme un emploi.
+* La profession d'avocat peut être effectuée en plus de deux autres emplois.
+
+### Le travail à la tâche / temporaire
 
