@@ -29,5 +29,28 @@ Lors d’un crédit : il est obligatoire de faire un apport lors de l’achat d�
 Vous devez faire des travaux dans le cas où un MLO est installé, ou si il est partiellement ou totalement détruit par un incendie, demandez une estimation aux économistes Dans le cas d’un feu une demande de prise en charge de 50% par l’assurance peut être faite auprès de la justice.
 
 Pour le numéro et adresse d'un bien : coordonnées x (sans le moins) sur la route devant l’entrée principale et le nom de la rue.
-Exemple : 1154RueDeMaMaison
+> Exemple : 1154RueDeMaMaison
+### Pour les véhicules 
+Les prix se rapprochent de la réalité pour les véhicules basiques mais les véhicules d'exceptions les prix sont plus bas que la réalité afin de pouvoir aussi se faire plaisir tout en devant payer quand même une certaine somme pour éviter que ce soit trop facile.
+### Pour les biens de consommations courantes : alimentation, vêtement …
+Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
+### Les prix PNJ 
+Les prix PNJ sont fixés à 20% plus chers minimum et adapter selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
+
+### Les prix des PNJ placés (légal)
+#### Coté légal
+PNJ dans les entreprises (3 types de PNJ) 
+* Les client fictifs sont des PNJ de décoration et sont gratuits
+* Les employés PNJ : serveuse, dj, hôtesse d’accueil … Les entreprises doivent payer un salaire au compte PNJ. 2500$/semaine par salarié PNJ sur le compte PNJ.
+* Les gardes PNJ : prioriser les gardes d’entreprises joueurs d’une valeur supérieure à 2500$/semaine (fixé par les entreprises en fonction de la marge et des taxes) mais qui ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs. Dans le cas où les gardes proviennent d'une entreprise PNJ le prix est de 5000$/semaine. 
+ * Les entreprises de sécurité doivent payer 2500$/semaine et par PNJ placé auprès du compte PNJ des banques.
+### Les prix des PNJ placés (illégal)
+#### PNJ Darkzone 
+Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence sur les flics lors de perquisition, par contre sont là pour limiter l’accès au civils et faire peur. Vu que les darkzones n’appartiennent pas réellement à des joueurs les PNJ sont « gratuit ».
+
+#### PNJ gardes dark hors darkzone
+* Gestion par les référents dark, 2500$/semaine par PNJ
+* Somme totale par semaine ou mois mise en commentaire dans le script et payée une fois par mois. (Prélevé par les référents dark).
+* Les PNJ ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs.
+
 
