@@ -68,7 +68,7 @@ Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse per
 ## Limite d’emploi 
 * Sont considérés comme emploi le fait de posséder une entreprise et/ou  d'y travailler. 
 * Il est autorisé d'avoir deux  emplois maximum (patron ou employé ou bénévole) pour les entreprises.
-Une exception est possible pour des tâches temporaires, voir Le travail à la tâche / temporaire.
+Une exception est possible pour des tâches temporaires, [voir Le travail à la tâche / temporaire](https://github.com/guiguixe/sadoj-docs-guillaume/blob/main/life/rp/economy.md#le-travail-%C3%A0-la-t%C3%A2che--temporaire)
 * Les associations, clubs sont  exclus et peuvent faire appel à des bénévoles.
 * Posséder des parts et être seulement actionnaire ne compte pas comme un emploi.
 * Les mandats électifs sauf “Lieutenant-Gouverneur” comptent comme un emploi.
