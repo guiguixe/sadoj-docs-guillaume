@@ -8,14 +8,11 @@ Ce document est un document de travail, sachez qu’en matière d’économie, r
 De plus comme vous le savez, l’argent est souvent le nerf de la guerre et le rôle des économistes est de réguler tout ce qui touche à l’argent afin de vous donner une expérience de RP la plus convenable possible. Pas avoir assez ou trop gâcher le plaisir du RP. C’est pour cela que le rôle d’économiste et le groupe doit avoir la confiance des membres car ils travaillent pour le bien de tous ! Les modifications seront présentées mais non soumises au vote de la communauté, vous pouvez communiquer avec les économistes afin d’apporter des améliorations sur les modifications. (Pourquoi pas de vote ? Économiste est un rôle à part car cela touche à l’argent, c’est aussi pour éviter les effets de désinformation et l’économiste bashing, les économistes travaillent pour nous tous et pour le bien de notre RP.)
 
 Il est possible de contactez les économistes par le formulaire mis à disposition. 
-
 ## Garant de l'économie
 Tout membre de la communauté est  le garant de l’économie du serveur, le fait de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain n’est pas un bon esprit et peut être considéré comme une faute communautaire car cela nuit à l’ensemble de l’économie et à tout le monde.
-
 ## Les salaires et revenus
 ### Les salaires
 * Le salaire minimum actuel est de $2.500/semaine si présence au moins une fois par semaine, libre au entreprise d'arrêter le versement du salaire si la personne n’est pas présente. Le salaire fixe est librement fixé par l’entreprise (Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle ci)
-
 * Des primes peuvent être données en plus afin de récompenser les employés. Il faut juste garder une certaine cohérence entre l’emploi, la taille de l’entreprise et les revenus de celle-ci.
 ## Les prix
 Le but ici est de proposer des prix qui ne soient pas trop bloquants mais que cela ne soit pas non plus trop facile. Tout dépend des biens.
@@ -36,7 +33,6 @@ Les prix se rapprochent de la réalité pour les véhicules basiques mais les v�
 Les prix sont fixés proche de la réalité selon les entreprises qui proposent aussi ces biens.
 ### Les prix PNJ 
 Les prix PNJ sont fixés à 20% plus chers minimum et adapter selon les biens afin de privilégier l'interaction et donc le RP. Il est bien pour tout le monde de privilégier le contact avec les joueurs même si les persos ne sont pas d’accord. Passer par des PNJ doit rester exceptionnel et parfois RP et quand les joueurs ne sont pas présents. Peut être adapté selon l’activité.
-
 ### Les prix des PNJ placés (légal)
 #### Coté légal
 PNJ dans les entreprises (3 types de PNJ) 
@@ -47,10 +43,26 @@ PNJ dans les entreprises (3 types de PNJ)
 ### Les prix des PNJ placés (illégal)
 #### PNJ Darkzone 
 Les PNJ dans les darkzones sont de la décoration et n’ont aucune influence sur les flics lors de perquisition, par contre sont là pour limiter l’accès au civils et faire peur. Vu que les darkzones n’appartiennent pas réellement à des joueurs les PNJ sont « gratuit ».
-
 #### PNJ gardes dark hors darkzone
 * Gestion par les référents dark, 2500$/semaine par PNJ
 * Somme totale par semaine ou mois mise en commentaire dans le script et payée une fois par mois. (Prélevé par les référents dark).
 * Les PNJ ont un réel impact dans le RP car ils doivent être pris en compte par les joueurs.
+### Les prix fixés par les entreprises 
+* Les prix sont conseillés par les économistes mais restent libres. Si vous souhaitez les modifier, demandez conseil aux économistes. Certains prix sont fixés par les économistes (réparation VL, Prix VL neuf, Alarmes)
+* **Remise maximum pour les entreprises fixée à 30%** pour garder une certaine cohérence et éviter l’escalade des remises entre concurrents.
+### Honoraires des avocats
+| Type de contrat | Plafond  |
+| :------------ |:---------------:|
+| Hors commision      | 20000$ |
+| En commision      | 10000$ |
+- L’avocat peut, le cas échéant, réclamer un supplément proportionnel à un dédommagement obtenu mais qui ne peut excéder 10% de ce dernier.
+### Revenus des journalistes
+- Pas de limite d'article, de tweet, de video.
+| Type de vue | Gains  |
+| :------------ |:---------------:|
+| Tweet     | 20000$ |
+| En commision      | 10000$ |
 
+### Les revenus de travail ou activité PNJ
+Certains métiers comme livreur, taxi, éboueur ou activité comme la chasse permettent de toucher de l’argent versé par un PNJ. Le but est de rester cohérent ici et de ne pas farmer excessivement dans le but de s’enrichir plus que la normale. Ce sont des jobs de dépannage pour se faire un peu d’argent quand on a pas d’emploi ou pour se faire un petit plus. Passer sa journée sur le serveur à faire ce genre de chose alors que personne n’est connecté et que cela n’est pas cohérent avec le RP de votre personnage n’est pas une attitude que l’on souhaite voir dans la communauté.
 
