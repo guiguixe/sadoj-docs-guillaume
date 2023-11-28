@@ -76,4 +76,11 @@ Une exception est possible pour des tâches temporaires, [voir Le travail à la 
 
 ### Le travail à la tâche / temporaire
 Une entreprise peut décider d'employer une personne pour une tâche ou pour une mission courte cela s’apparente à de l’intérim et vous pouvez toucher une somme pour cela. Encore une fois, cela doit rester cohérent et peut tenir compte de la précarité de l’emploi. Pour une tâche qui dure la soirée, une somme de 2500$ paraît correcte. Donner beaucoup peut être considéré comme un moyen de contourner les systèmes mis en place dans le but de s’enrichir ou d’enrichir un copain, ce n’est pas un bon esprit et peut être considéré comme une faute communautaire.
-> Exemple : volontariat dans un service public 
+> Exemple : volontariat dans un service public
+## Les crédits
+Les banques de l’état proposent des crédits à  la consommation. Les taux sont libres sauf cas particuliers.
+Les crédits contractés se remboursent sur 52 semaines maximum (1 an IRL).
+Le taux d'endettement doit être inférieur à 80% du salaire fixe hors prime et hors loyers investissements.
+Pour un crédit supérieur à 10.000$ il est nécessaire d'avoir une adresse (justifier d’au moins 3 mois) propriétaire ou locataire.
+Pour un crédit en dessous de 10.000$ il n'y a pas d’obligation d'avoir une adresse mais limité à deux crédit simultané.
+
